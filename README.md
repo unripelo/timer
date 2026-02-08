@@ -1,2 +1,2 @@
 # studyclock
-a timer for studying
+a timer for everything, ill just rename it 
